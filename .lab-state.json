@@ -15,5 +15,11 @@
   "testEnvName": "Warehouse test 2719",
   "testEnvDomain": "wm-test-2719",
   "testEnvUrl": "https://wm-test-2719.crm4.dynamics.com",
-  "testProfile": "test"
+  "testProfile": "test",
+  "appName": "wm-deploy-2719",
+  "appId": "ce69b8f2-3b5f-466e-b117-a2bc6350f697",
+  "appObjectId": "1f69e439-a61e-49b8-af38-095cead20fd4",
+  "servicePrincipalObjectId": "78645a4d-64a6-4c47-b372-89fff5132c88",
+  "federatedCredentialName": "github-main",
+  "dataverseTestUrl": "https://wm-test-2719.crm4.dynamics.com"
 }
